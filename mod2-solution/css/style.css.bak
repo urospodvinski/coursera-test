@@ -3,7 +3,7 @@
     margin:0;
     padding:0;
 }
-body {
+body{
     margin-left: 20px;
     margin-right: 20px;
 }
