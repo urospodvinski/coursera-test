@@ -1,0 +1,52 @@
+body {
+font-family: 'Ubuntu', sans-serif;
+}
+.container-fluid {
+    padding:0;
+}
+.navbar {
+    padding: 0;
+    margin-bottom: 30px;
+}
+.navbar-brand {
+    margin: 5px 5px 5px 50px;
+}
+.navbar-nav .nav-item {
+    text-align: center;
+    border
+}
+.nav-item {
+    margin: 0 auto;
+}
+.navbar-nav {
+    padding: 0;
+}
+#navbarNav {
+    margin-top: 10px;
+}
+.nav-item:hover {
+    background-color: gray;
+}
+.container {
+    padding-left: 0;
+    padding-right: 0;
+}
+.navbar-toggler {
+    margin-right: 20px;
+}
+.main {
+    margin: 0 auto;
+}
+.content {
+    background-color: gray;
+    padding: 10px;
+    
+}
+.content p {
+    margin:20px;
+}
+.content .container-fluid {
+    margin:50px
+
+    
+}
